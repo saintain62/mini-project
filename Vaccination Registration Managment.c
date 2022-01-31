@@ -107,7 +107,7 @@ void main()
         printf("\n*****Quick Vaccination Menu****\n");
         printf("Enter 1 to add patient\n");
         printf("Enter 2 to register Vaccination\n");
-        printf("Enter 3 to check the patient\n");
+        printf("Enter 3 to check the patient list\n");
         printf("Enter 4 to remove patient\n");
         printf("Enter 5 to exit\n");
         printf("Please choose any menu: ");
