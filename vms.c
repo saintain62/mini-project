@@ -69,7 +69,7 @@ void removePatient()
         }
         else if(i==indexNumber-1)
         {
-            printf("This name is not exits\n");
+            printf("This name does not exits\n");
         }       
     }        
 }
