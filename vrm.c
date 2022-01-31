@@ -8,7 +8,7 @@ int indexNumber=0;
 void checkPatient()
 {
     int i;
-    printf("\n       1st/2nd Dose Done | Vaccination Not Taken\n");   
+    printf("\n       Vaccination Taken | Vaccination Not Taken\n");   
     for ( i = 0; i < indexNumber; i++)
     {        
         printf("%s",patName[i]);
@@ -104,9 +104,9 @@ void main()
     int choose;
     do
     {
-        printf("\n**********Vaccination Menu***********\n");
+        printf("\n:)^^Quick Vaccination Menu^^:)\n");
         printf("Enter 1 to add patient\n");
-        printf("Enter 2 to register First/Secod Dose\n");
+        printf("Enter 2 to register Vaccination\n");
         printf("Enter 3 to check the patient\n");
         printf("Enter 4 to remove patient\n");
         printf("Enter 5 to exit\n");
